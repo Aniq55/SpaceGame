@@ -3,14 +3,18 @@ A space jet moves in space avoiding asteroids and collisions with the enemies. T
 
 #Installing Pygame
 ```
-pip install pygame
+$ pip install pygame
+```
+If it does not work, then
+```
+$ sudo -H pip install pygame
 ```
 
 For more info, visit [Pygame download page](http://www.pygame.org/download.shtml)
 
 #Run
 ```
-python3 SpaceGame.py
+$ python SpaceGame.py
 ```
 
 
